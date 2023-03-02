@@ -10,6 +10,9 @@ menu:
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
-
+nav:
+  logo: #image
+  display_title: true
+  fixed: true # fixed navigation bar
 
 
