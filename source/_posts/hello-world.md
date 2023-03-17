@@ -1,5 +1,5 @@
 ---
-title: how to insert images in GitHub
+title: images in GitHub
 tags:
   - github
   - images
