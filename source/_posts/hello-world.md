@@ -22,8 +22,4 @@ date: 2023-03-17 21:00:00
 
 注意：如果你不想让别人看到你创建的issue，可以将其关闭或删除。如果你不想让别人收到关于这个issue的通知邮件，可以批量上传多张图片后再保存或关闭issue。如果你想给图片添加标题或替代文本（alt text），可以在方括号[]中输入文字。
 
-源: 与必应的对话， 2023/3/17(1) CDN.md · GitHub. https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d 访问时间 2023/3/17.
-(2) Easily Add Images to GitHub | Blog - Ardalis. https://ardalis.com/add-images-easily-to-github/ 访问时间 2023/3/17.
-(3) How to add images to README.md on GitHub? - Stack Overflow. https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github 访问时间 2023/3/17.
-(4) Adding images to your GitHub Pages site. https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html 访问时间 2023/3/17.
-(5) CDN.md · GitHub. https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d 访问时间 2023/3/17.
+
