@@ -10,7 +10,7 @@ date: 2023-03-17 21:00:00
 ---
 
 ### insert images in GitHub
-我可以帮你解答如何在GitHub中放入图片。我搜索了how to insert images in GitHub，找到了一些介绍如何在README.md文件或其他Markdown文件中插入图片的网站，比如¹ CDN.md · GitHub、² Easily Add Images to GitHub | Blog - Ardalis、³ How to add images to README.md on GitHub? - Stack Overflow、⁴ Adding images to your GitHub Pages site。你可以在这些网站上查看更多的方法和细节。
+
 
 一种常用的方法是使用GitHub的issue功能来上传图片，然后复制图片的URL，在Markdown文件中使用![]()语法来引用图片。具体步骤如下：
 
