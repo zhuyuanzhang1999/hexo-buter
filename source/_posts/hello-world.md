@@ -1,9 +1,9 @@
 ---
 title: images in GitHub
 tags:
-  - github
+  - GitHub
   - images
-id: '451'
+id: '459'
 categories:
   - - GitHub
 date: 2023-03-17 21:00:00
