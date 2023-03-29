@@ -47,7 +47,7 @@ subtitle:
   # loop (循环打字)
   loop: true
   # source 调用第三方服务
-  source:3   # 关闭调用  false
+  #source:3   # 关闭调用  false
   # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
   # source: 2  调用一句网（简体） http://yijuzhan.com/
   # source: 3  调用今日诗词（简体） https://www.jinrishici.com/
