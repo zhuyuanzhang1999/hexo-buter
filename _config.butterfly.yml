@@ -80,7 +80,7 @@ index_img: transparent
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: zhuyuanzhang1999/hexo-buter/source/image/123.jpg
+background: url(zhuyuanzhang1999/hexo-buter/source/image/123.jpg)
 
 # Footer Background
 footer_bg: transparent
