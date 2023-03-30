@@ -58,6 +58,17 @@ subtitle:
    # - 今日事&#44;今日毕
    # - Never put off till tomorrow what you can do today
 avatar: /image/123.jpg
+# 加载动画 Loading Animation
+preloader:
+  enable: true
+  # source
+  # 1. fullpage-loading
+  # 2. pace (progress bar)
+  source: 1
+  # pace theme (see https://codebyzach.github.io/pace/)
+  pace_css_url:
+
+
 
 
 
