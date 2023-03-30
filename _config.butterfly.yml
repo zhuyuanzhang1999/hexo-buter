@@ -57,7 +57,7 @@ subtitle:
   #sub:
    # - 今日事&#44;今日毕
    # - Never put off till tomorrow what you can do today
-avatar: /image/123.jpg
+
 # 加载动画 Loading Animation
 preloader:
   enable: true
@@ -68,7 +68,22 @@ preloader:
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
 
+# Image (圖片設置)
+# --------------------------------------
 
+# The banner image of home page
+index_img: transparent
+
+# Beautify/Effect (美化/效果)
+# --------------------------------------
+
+# Website Background (設置網站背景)
+# can set it to color or image (可設置圖片 或者 顔色)
+# The formal of image: url(http://xxxxxx.com/xxx.jpg)
+background: zhuyuanzhang1999/hexo-buter/source/image/123.jpg
+
+# Footer Background
+footer_bg: transparent
 
 
 
