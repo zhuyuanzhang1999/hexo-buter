@@ -84,10 +84,8 @@ background: url(zhuyuanzhang1999/hexo-buter/source/image/123.jpg)
 
 # Footer Background
 footer_bg: transparent
-highlight_theme: false
-inject:
-  head:
-    - <link rel="stylesheet" href="/self/Kimbiedark.css">
+#highlight_theme: false
+
 
 
 
