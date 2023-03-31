@@ -1,6 +1,5 @@
 
-highlight_theme: pale night
-highlight_copy: true
+
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
