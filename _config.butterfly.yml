@@ -87,12 +87,12 @@ footer_bg: transparent
 # 文章代码区域样式
 # --------------------------------------
 
-highlight_theme: darker # 代码高亮主题 darker / pale night / light / ocean / mac / mac light / false
-highlight_copy: true # 复制按钮 true/false
-highlight_lang: true # 显示代码使用的语言
-highlight_shrink: false # true: 折叠代码块 / false: 默认展开代码块 | none: 展开并取消折叠按钮
-highlight_height_limit: false # unit: px
-code_word_wrap: false #代码超出页面自动换行
+# highlight_theme: darker # 代码高亮主题 darker / pale night / light / ocean / mac / mac light / false
+# highlight_copy: true # 复制按钮 true/false
+# highlight_lang: true # 显示代码使用的语言
+# highlight_shrink: false # true: 折叠代码块 / false: 默认展开代码块 | none: 展开并取消折叠按钮
+# highlight_height_limit: false # unit: px
+# code_word_wrap: false #代码超出页面自动换行
 #首页的横幅图片
 index_img: /image/123.jpg
 
