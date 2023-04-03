@@ -104,3 +104,13 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+# 搜索
+# --------------------------------------
+local_search:
+  enable: true
+
+
+# MathJax 数学插件
+mathjax:
+  enable: true
+  per_page: false
