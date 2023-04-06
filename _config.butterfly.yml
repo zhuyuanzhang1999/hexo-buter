@@ -93,7 +93,12 @@ footer_bg: transparent
 # highlight_shrink: false # true: 折叠代码块 / false: 默认展开代码块 | none: 展开并取消折叠按钮
 # highlight_height_limit: false # unit: px
 # code_word_wrap: false #代码超出页面自动换行
-
+# 搜索
+# --------------------------------------
+local_search:
+  enable: true
+  preload: true
+  CDN:
 
 
 
