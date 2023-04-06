@@ -94,7 +94,11 @@ footer_bg: transparent
 # highlight_height_limit: false # unit: px
 # code_word_wrap: false #代码超出页面自动换行
 
-
+# A simple 404 page
+error_404:
+  enable: true
+  subtitle: "頁面沒有找到"
+  background: 
 
 
 
