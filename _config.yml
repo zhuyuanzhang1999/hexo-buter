@@ -108,7 +108,8 @@ deploy:
 # --------------------------------------
 local_search:
   enable: true
-
+  preload: true
+  CDN:
 
 # MathJax 数学插件
 mathjax:
