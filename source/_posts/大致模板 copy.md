@@ -128,3 +128,29 @@ urlpatterns = [
     <title>我的博客</title>
 </head>
 <body>
+<h1>我的博客</h1>
+<ul>
+{% for post in posts %} <!-- 遍历所有文章对象 -->
+    <li>
+        <h2>{{ post.title }}</h2> <!-- 显示文章标题 -->
+        <p>{{ post.content|truncatechars:100 }}</p> <!-- 显示文章内容的前100个字符 -->
+        <p>{{ post.created_at|date:"Y-m-d H:i:s" }}</p> <!-- 显示文章创建时间 -->
+    </li>
+{% endfor %}
+</ul>
+</body>
+</html>
+```
+
+14. 在项目目录下，运行开发服务器，命令如下：
+
+```bash
+$ python manage.py runserver
+```
+
+15. 在浏览器中，访问http://127.0.0.1:8000/admin/，输入超级用户的用户名和密码，进入后台管理界面，添加一些文章数据，：
+
+
+
+16. 在浏览器中，访问http://127.0.0.1:8000/blog/，查看博客首页的效果
+
