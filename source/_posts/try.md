@@ -1,5 +1,5 @@
 ---
-title: 模板2023年3月2日
+title: python try
 tags:
   - python
   - python练习
