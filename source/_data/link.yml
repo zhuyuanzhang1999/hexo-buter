@@ -8,6 +8,10 @@
 
     - name: draw.io
       link: https://app.diagrams.net
-      avatar: https://app.diagrams.net
       descr: 绘图结构流程图
+   
+    - name: butterfly
+      link: https://butterfly.js.org/
+      descr: 绘图结构流程图
+
 
