@@ -12,6 +12,9 @@
    
     - name: butterfly
       link: https://butterfly.js.org/
-      descr: 绘图结构流程图
+      descr: 主题站-主题出问题就来翻翻看
 
+    - name: chatgpt提示词
+      link: https://www.promptgenius.site/
+      descr: chatgpt提示词
 
