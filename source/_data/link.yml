@@ -5,5 +5,9 @@
       link: https://eldpepar.com
       avatar: https://www.eldpepar.com/favicon.ico
       descr: 非常棒的网站
-
+  link_list:
+    - name: draw.io
+      link: https://app.diagrams.net
+      avatar: https://app.diagrams.net
+      descr: 绘图结构流程图
 
