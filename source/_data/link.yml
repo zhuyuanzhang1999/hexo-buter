@@ -19,4 +19,10 @@
     - name: chatgpt提示词
       link: https://www.promptgenius.site/
       descr: chatgpt提示词
-
+# - class_name: 友联     示例
+#   class_desc: 那些人，那些事
+#   link_list:
+#     - name: eldpepar.com                              名字
+#       link: https://eldpepar.com                      链接
+#       avatar: https://www.eldpepar.com/favicon.ico    网站图标
+#       descr: 非常棒的网站                              简介
