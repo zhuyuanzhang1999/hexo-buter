@@ -1,5 +1,5 @@
-- class_name: 友联
-  class_desc: 那些人，那些事
+- class_name: 记录链接
+  class_desc: 随手记录
   link_list:
     - name: eldpepar.com
       link: https://eldpepar.com
